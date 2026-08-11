@@ -57,7 +57,7 @@ me.say_hi()
 ### 👨‍💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,sql" />
+<img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -66,15 +66,13 @@ me.say_hi()
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
+**Libraries & Frameworks**
+
+`Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Seaborn`
+
 ### 📊 Data Analytics
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-**Libraries & Tools**
-
-`Pandas` • `NumPy` • `Scikit-Learn` • `Matplotlib` • `Seaborn` • `Power BI`
+`Power BI` • `Excel` • `SQL` • `Pandas` • `NumPy`
 
 ### 🔧 Tools
 
@@ -87,19 +85,25 @@ me.say_hi()
 ## 📊 My Data Journey
 
 ```text
-Raw Data
-   ↓
-🧹 Data Cleaning
-   ↓
-🔍 Exploratory Data Analysis
-   ↓
-📊 Visualization
-   ↓
-🧠 Machine Learning
-   ↓
-💡 Insights
-   ↓
-🚀 Business Decisions
+             RAW DATA
+                 │
+                 ▼
+          🧹 DATA CLEANING
+                 │
+                 ▼
+       🔍 EXPLORATORY ANALYSIS
+                 │
+                 ▼
+          📊 VISUALIZATION
+                 │
+                 ▼
+        🧠 MACHINE LEARNING
+                 │
+                 ▼
+           💡 INSIGHTS
+                 │
+                 ▼
+       🚀 BUSINESS DECISIONS
 ```
 
 > **Data isn't just numbers — it's a story waiting to be discovered. 📈**
@@ -120,21 +124,19 @@ Raw Data
 
 ## 🚀 Featured Projects
 
-### 🤖 AI & Data Analytics Projects
-
-🔹 **AI-Powered Data Analysis**
+### 🤖 AI-Powered Data Analysis
 
 > Analyze datasets, discover patterns, generate insights and visualize important trends.
 
-🔹 **Web Deception Detection System**
+### 🌐 Web Deception Detection System
 
 > Detect phishing links, dark patterns and deceptive web practices using Machine Learning.
 
-🔹 **Cyber Attack Prediction**
+### 🛡️ Cyber Attack Prediction
 
 > Predict potential cyber threats using AI and Machine Learning techniques.
 
-🔹 **Data Visualization Dashboard**
+### 📊 Data Visualization Dashboard
 
 > Interactive dashboards designed to convert complex datasets into meaningful insights.
 
@@ -159,18 +161,22 @@ Raw Data
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
+
+> 🐍 **My contributions are always moving forward!**
 
 ---
 
 ## 🎯 2026 Goals
 
 ```text
-☐ Become a strong Data Analyst
+☑ Learn Python & SQL
+☑ Explore Data Analytics
 ☐ Master Machine Learning
 ☐ Build real-world AI projects
-☐ Improve SQL & Power BI skills
+☐ Improve Power BI skills
+☐ Master Advanced SQL
 ☐ Contribute to Open Source
 ☐ Build an impressive AI portfolio
 ☐ Turn data into real-world solutions 🚀
@@ -209,8 +215,6 @@ I believe the best way to learn technology is by **building real-world projects*
 <p align="center">
 
 ### ⭐ If you like my work, consider giving my repositories a star!
-
-**Thanks for visiting my profile! 👨‍💻🚀**
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
 
